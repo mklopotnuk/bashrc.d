@@ -1,0 +1,10 @@
+export MANPAGER="/usr/bin/most -s"
+export HISTCONTROL="ignoredupes"
+export HISTSIZE="2000"
+export HISTIGNORE="&:ls:[bf]g:exit"
+#export EDITOR=`which joe`
+export EDITOR=`which emacs`" -nw"
+export GREP_OPTIONS GREP_COLOR
+#export PATH="/usr/local/bin"
+export PATH="/bin:/usr/bin:/sbin:/usr/sbin:/usr/X11R6/bin:/opt/bin:/opt/kde/bin:/usr/bin/perlbin/site:/usr/bin/perlbin/vendor:/usr/bin/perlbin/core:/opt/qt/bin:/usr/local/bin:/home/merlin/.gem/ruby/1.8/bin"
+export TERM=xterm-xfree86

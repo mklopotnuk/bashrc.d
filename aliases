@@ -1,0 +1,4 @@
+alias ps='ps aux'
+alias ls='ls --color=auto -lah'
+alias emacs='emacs -nw'
+alias screen='TERM=screen screen'
